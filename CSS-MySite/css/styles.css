@@ -16,6 +16,7 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   color: #66BFBF;
+  font-weight: normal;
 
 }
 
@@ -35,6 +36,14 @@ h3 {
 }
 
 .bottom-container {
+
+}
+
+.skill-row {
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height:2;
 
 }
 
