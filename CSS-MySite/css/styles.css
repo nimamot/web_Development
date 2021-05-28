@@ -45,16 +45,31 @@ h3 {
   text-align: left;
   line-height:2;
 
+
 }
 
 .top-cloud {
   position: absolute;
   right: 300px;
   top: 50px;
+
 }
 
 .bottom-cloud {
   position: absolute;
   left: 300px;
   bottom: 300px;
+
+}
+
+.code-img{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-img{
+  width:25%;
+  float: right;
+  margin-left: 30px;
 }
