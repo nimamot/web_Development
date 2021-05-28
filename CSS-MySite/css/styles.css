@@ -5,6 +5,10 @@ body {
 
 }
 
+.profile-pic{
+  margin-top: 100px;
+}
+
 h1 {
   font-size:5.625rem;
   margin: 50px auto 0 auto;
@@ -33,10 +37,16 @@ h3 {
 
 .middle-container {
 
+
 }
 
 .bottom-container {
 
+}
+
+.profile-description{
+  width: 50%;
+  margin: 100px auto 100px auto;
 }
 
 .skill-row {
@@ -72,4 +82,8 @@ h3 {
   width:25%;
   float: right;
   margin-left: 30px;
+}
+
+.hr{
+  border: 1 dotted red;
 }
