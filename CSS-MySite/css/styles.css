@@ -84,6 +84,39 @@ h3 {
   margin-left: 30px;
 }
 
-.hr{
-  border: 1 dotted red;
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 2px;
+  border-color: gray;
+  border-width: 5px;
+  width: 4%;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  padding: 30px;
+  margin-top: 50px;
+}
+.btn{
+  background-color: #66BFBF;
+  color: white;
+  font-size: 16px;
+  border: 15px solid  #66BFBF;
+  margin-top: 15px;
+
+
+}
+
+.footer-link{
+  margin: auto 15px auto 15px;
+  font-size: 15px;
+  color: #11999E;
+  border-radius: 15px;
+}
+
+.credits{
+  font-size: 10px;
+  color: #EAF6F6;
 }
