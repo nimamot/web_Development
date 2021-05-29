@@ -27,6 +27,7 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+  
 }
 
 .top-container {
@@ -99,13 +100,17 @@ hr {
   padding: 30px;
   margin-top: 50px;
 }
+.btn-a{
+  color: #EAF6F6;
+  font-size: 16px;
+  padding: 15px;
+
+
+}
 .btn{
   background-color: #66BFBF;
-  color: white;
-  font-size: 16px;
-  border: 15px solid  #66BFBF;
-  margin-top: 15px;
-
+  margin: 35px auto 10px auto;
+  border-radius: 6px;
 
 }
 
@@ -113,10 +118,16 @@ hr {
   margin: auto 15px auto 15px;
   font-size: 15px;
   color: #11999E;
-  border-radius: 15px;
+
 }
 
 .credits{
   font-size: 10px;
   color: #EAF6F6;
+}
+
+.contact-me{
+  width: 50%;
+  margin:100px auto 100px auto;
+
 }
