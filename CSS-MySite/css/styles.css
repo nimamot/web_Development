@@ -63,9 +63,9 @@ p{
 }
 
 .bottom-cloud {
-  position: absolute;
+position: absolute;
   left: 250px;
-  bottom: 300px;
+  bottom: 250px;
 }
 
 .code-img {
@@ -131,15 +131,23 @@ hr {
 .footer-link {
   margin: auto 15px auto 15px;
   font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
   color: #11999E;
+}
+a:hover {
+  color: #EAF6F6;
 }
 
 .credits {
-  font-size: 10px;
+  font-size: 0.74rem;
   color: #EAF6F6;
 }
 
 .contact-me {
   width: 40%;
   margin: 40px auto 60px;
+}
+
+.mountain{
+  width: 470px;
 }
