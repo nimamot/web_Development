@@ -1,16 +1,16 @@
 body {
+  color: #40514e;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
-
 }
 
-.profile-pic{
+.profile-pic {
   margin-top: 100px;
 }
 
 h1 {
-  font-size:5.625rem;
+  font-size: 5.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
   color: #66BFBF;
@@ -21,13 +21,11 @@ h2 {
   font-size: 2.5rem;
   color: #66BFBF;
   font-weight: normal;
-
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
-  
 }
 
 .top-container {
@@ -36,51 +34,42 @@ h3 {
   padding-top: 100px;
 }
 
-.middle-container {
+.middle-container {}
 
+.bottom-container {}
 
-}
-
-.bottom-container {
-
-}
-
-.profile-description{
+.profile-description {
   width: 50%;
   margin: 100px auto 100px auto;
 }
 
 .skill-row {
-  width:50%;
-  margin:100px auto 100px auto;
+  width: 50%;
+  margin: 100px auto 100px auto;
   text-align: left;
-  line-height:2;
-
-
+  line-height: 2;
 }
 
 .top-cloud {
   position: absolute;
   right: 300px;
   top: 50px;
-
 }
 
 .bottom-cloud {
   position: absolute;
   left: 300px;
   bottom: 300px;
-
 }
 
-.code-img{
-  width:25%;
+.code-img {
+  width: 25%;
   float: left;
   margin-right: 30px;
 }
 
-.chilli-img{
-  width:25%;
+.chilli-img {
+  width: 25%;
   float: right;
   margin-left: 30px;
 }
@@ -92,42 +81,39 @@ hr {
   border-color: gray;
   border-width: 5px;
   width: 4%;
-
 }
-.bottom-container{
+
+.bottom-container {
   background-color: #66BFBF;
   margin-bottom: 0;
   padding: 30px;
   margin-top: 50px;
 }
-.btn-a{
+
+.btn-a {
   color: #EAF6F6;
   font-size: 16px;
   padding: 15px;
-
-
 }
-.btn{
+
+.btn {
   background-color: #66BFBF;
   margin: 35px auto 10px auto;
   border-radius: 6px;
-
 }
 
-.footer-link{
+.footer-link {
   margin: auto 15px auto 15px;
   font-size: 15px;
   color: #11999E;
-
 }
 
-.credits{
+.credits {
   font-size: 10px;
   color: #EAF6F6;
 }
 
-.contact-me{
+.contact-me {
   width: 50%;
-  margin:100px auto 100px auto;
-
+  margin: 100px auto 100px auto;
 }
