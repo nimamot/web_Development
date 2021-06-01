@@ -28,6 +28,10 @@ h3 {
   color: #11999E;
 }
 
+p{
+  line-height: 2;
+}
+
 .top-container {
   background-color: #E4F9F5;
   position: relative;
@@ -35,32 +39,32 @@ h3 {
 }
 
 .middle-container {
-  margin: 100px 0;
+  margin: 1px 0 100px 0;
 }
 
 .bottom-container {}
 
 .profile-description {
-  width: 50%;
-  margin: 100px auto 100px auto;
+  width: 30%;
+  margin: 65px auto;
 }
 
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  line-height: 2;
+
 }
 
 .top-cloud {
   position: absolute;
   right: 300px;
-  top: 50px;
+  top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 250px;
   bottom: 300px;
 }
 
