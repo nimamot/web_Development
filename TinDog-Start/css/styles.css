@@ -22,18 +22,10 @@ h1{
 
 }
 
-.universe{
-  height: auto;
-  width: 380px;
-
-}
-
-
-
 /* navbar */
 
 .navbar {
-  padding-bottom: 4.5rem;
+  padding:0 0 4.5rem;
 }
 
 .navbar-brand{
@@ -49,4 +41,13 @@ h1{
 .nav-link{
   font-size: 1.2rem;
   font-family: "Montserrat";
+}
+
+/* buttons */
+
+
+.universe{
+  height: auto;
+  width: 380px;
+
 }
