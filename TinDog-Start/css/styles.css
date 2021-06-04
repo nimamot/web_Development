@@ -31,12 +31,22 @@ h1{
 
 
 /* navbar */
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
 .navbar-brand{
   font-weight: bold;
   font-size: 2.70rem;
   font-family: "Ubuntu";
 }
+
 .nav-item{
-  margin: 10px;
-  font-size: 1.25rem;
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat";
 }
