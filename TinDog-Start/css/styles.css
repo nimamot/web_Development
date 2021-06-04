@@ -4,6 +4,7 @@ body{
 
 #title{
   background-color: #ff4c68;
+  color: #fff;
 
 }
 
@@ -12,27 +13,30 @@ body{
   height: 75%;
 }
 
-.description{
+h1{
   font-family: "Montserrat", "sans-serif";
   font-size: 3rem;
   line-height: 1.5;
   font-weight: 900;
   margin: 75px 0;
-  color: white;
-}
 
-.nav-item{
-  margin: 10px;
-  font-size: 1.25rem;
-}
-
-.navbar-brand{
-  font-weight: bold;
-  font-size: 2.70rem;
 }
 
 .universe{
   height: auto;
   width: 380px;
-  /* margin: 25px auto;  */
+
+}
+
+
+
+/* navbar */
+.navbar-brand{
+  font-weight: bold;
+  font-size: 2.70rem;
+  font-family: "Ubuntu";
+}
+.nav-item{
+  margin: 10px;
+  font-size: 1.25rem;
 }
