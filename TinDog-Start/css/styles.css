@@ -14,7 +14,7 @@ body{
 
 h1{
   font-family: "Montserrat", "sans-serif";
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.5;
   font-weight: 900;
 
@@ -46,9 +46,10 @@ h1{
   margin: 5% 3% 5% 0;
 }
 
-/* title image */
 .title-imgage{
-
-  width: 70%;
+  transform: rotate(25deg);
+  height: auto;
+  width: 380px;
+  margin: 75px 20px 0 20px;
 
 }
