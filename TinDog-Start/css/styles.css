@@ -25,6 +25,10 @@ h3{
     font-weight: bold;
 }
 
+p{
+  color: #8f8f8f;
+}
+
 /* navbar */
 
 .navbar {
@@ -69,9 +73,9 @@ h3{
 }
 
 .features_icon{
-
-  font-size: 50px;
+  /* font-size: 50px; */
   color: #ef8172;
+  margin-bottom: 15px;
 }
 
 
