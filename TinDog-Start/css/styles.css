@@ -20,6 +20,11 @@ h1{
 
 }
 
+h3{
+    font-family: "Montserrat", "sans-serif";
+    font-weight: bold;
+}
+
 /* navbar */
 
 .navbar {
@@ -53,15 +58,23 @@ h1{
   margin: 20px 0 0 -10px;
 
 }
-/* Added CSS */
+/* features */
+#features{
+  padding: 7% 15%;
+  font-family: "Montserrat";
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
 .features_icon{
+
   font-size: 50px;
   color: #ef8172;
 }
 
-#features{
-  font-family: "Montserrat";
-}
+
 
 .features_h3{
   font-size: 1.5rem;
