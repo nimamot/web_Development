@@ -122,3 +122,8 @@ p{
 .carousel-item{
     padding: 7% 15%;
 }
+
+/* prcining section */
+#pricing{
+  padding: 100px;
+}
