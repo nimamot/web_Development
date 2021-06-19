@@ -75,7 +75,7 @@ p{
   padding: 7% 15%;
   font-family: "Montserrat";
   background-color: #fff;
-  position: absolute;
+  position: relative;
   z-index:1;
 }
 .feature-box{
