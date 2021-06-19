@@ -67,6 +67,7 @@ p{
   height: auto;
   width: 380px;
   margin: 20px 0 0 -10px;
+  z-index: -1;
 
 }
 /* features */
