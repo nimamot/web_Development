@@ -76,6 +76,8 @@ p{
   padding: 7% 15%;
   font-family: "Montserrat";
   background-color: #fff;
+  position: absolute;
+  z-index:1;
 }
 .feature-box{
   text-align: center;
