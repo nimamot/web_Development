@@ -9,7 +9,7 @@ body{
 }
 
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 
 h1{
@@ -64,9 +64,13 @@ p{
 
 .title-imgage{
   /* transform: rotate(25deg); */
+
   height: auto;
   width: 380px;
   margin: 20px 0 0 -10px;
+
+  /* width: 20%;
+  transform: rotate(25deg); */
   position: absolute;
 
 }
