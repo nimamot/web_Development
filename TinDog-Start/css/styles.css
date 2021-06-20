@@ -65,13 +65,14 @@ p{
 .title-imgage{
   /* transform: rotate(25deg); */
 
-  height: auto;
+  /* height: auto;
   width: 380px;
-  margin: 20px 0 0 -10px;
-
-  /* width: 20%;
-  transform: rotate(25deg); */
+  margin: 20px 0 0 -10px; */
   position: absolute;
+  right: 30%;
+  width: 20%;
+  /* transform: rotate(25deg); */
+
 
 }
 /* features */
