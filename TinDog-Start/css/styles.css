@@ -63,11 +63,11 @@ p{
 }
 
 .title-imgage{
-  /* transform: rotate(25deg); */
+  transform: rotate(25deg);
 
-  /* height: auto;
-  width: 380px;
-  margin: 20px 0 0 -10px; */
+  height: auto;
+  /* width: 380px;
+  margin: 20px 0 0 -10px; */ */
   position: absolute;
   right: 30%;
   width: 20%;
