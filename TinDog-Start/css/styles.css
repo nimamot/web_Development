@@ -143,7 +143,13 @@ p{
 }
 
 @media (max-width: 1028px){
+
+  #title{
+    text-align: center;
+  }
   .title-imgage{
     position: static;
+    transform: rotate(0);
   }
+
 }
