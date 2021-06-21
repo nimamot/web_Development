@@ -67,7 +67,7 @@ p{
 
   height: auto;
   /* width: 380px;
-  margin: 20px 0 0 -10px; */ */
+  margin: 20px 0 0 -10px; */
   position: absolute;
   right: 30%;
   width: 20%;
@@ -140,4 +140,10 @@ p{
 
 .pricing-column{
   padding: 3% 2%;
+}
+
+@media (max-width: 1028px){
+  .title-imgage{
+    position: static;
+  }
 }
