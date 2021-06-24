@@ -12,6 +12,7 @@ body{
   padding: 3% 15% 7%;
 }
 
+
 h1{
   font-family: "Montserrat", "sans-serif";
   font-size: 3.5rem;
@@ -64,19 +65,21 @@ p{
 
 .title-imgage{
   /* transform: rotate(25deg); */
-
-  height: 100%;
   /* width: 380px;
   /* margin: 20px 0 0 -10px; */
+    height: 100%;
   position: absolute;
-
-  /* left: 0; */
-  bottom: -3%;
+  /* left: 10%;
+  right: auto; */
   width: auto;
+  bottom: -3%;
+  right: -29%;
+  top: 10%;
+  /* margin-right: -10px; */
+
 
 
   /* transform: rotate(25deg); */
-
 
 }
 /* features */
@@ -147,7 +150,7 @@ p{
   padding: 3% 2%;
 }
 
-@media (max-width: 990px){
+@media (max-width: 991.5px){
 
   #title{
     text-align: center;
