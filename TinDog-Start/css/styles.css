@@ -72,8 +72,8 @@ p{
   /* left: 10%;
   right: auto; */
   width: auto;
-  bottom: -3%;
-  right: -29%;
+  bottom: -1%;
+  right: 1%;
   top: 10%;
   /* margin-right: -10px; */
 
@@ -168,11 +168,18 @@ p{
   background-color: #ff4c68;
   text-align: center;
   color: #fff;
-  font-family: "Montserrat";
+
   padding: 100px;
 }
 .cta-btn{
   margin: 70px 20px 20px;
+}
+
+.cta-heading{
+    font-family: "Montserrat";
+    font-weight:  bold;
+    font-size: 3.5rem;
+    line-height: 1.5;
 }
 
 #footer{
