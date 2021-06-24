@@ -63,14 +63,20 @@ p{
 }
 
 .title-imgage{
-  transform: rotate(25deg);
+  /* transform: rotate(25deg); */
 
   height: auto;
   /* width: 380px;
   margin: 20px 0 0 -10px; */
   position: absolute;
-  right: 30%;
-  width: 20%;
+  right: 5%;
+  bottom: -5%;
+
+  /* width: 20%; */
+
+  width: 50%;
+
+
   /* transform: rotate(25deg); */
 
 
@@ -150,8 +156,8 @@ p{
   }
   .title-imgage{
     position: static;
-    transform: rotate(0);
-    width: 50%;
+    width: 100%;
+    margin-bottom: -220px;
   }
 
 }
