@@ -154,3 +154,11 @@ p{
   }
 
 }
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+  font-family: "Montserrat";
+  padding: 100px;
+}
