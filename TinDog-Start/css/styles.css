@@ -2,17 +2,6 @@ body{
   font-family: "Montserrat";
 }
 
-#title{
-  background-color: #ff4c68;
-  color: #fff;
-
-}
-
-.container-fluid {
-  padding: 3% 15% 7%;
-}
-
-
 h1{
   font-family: "Montserrat", "sans-serif";
   font-size: 3.5rem;
@@ -36,6 +25,19 @@ h3{
 p{
   color: #8f8f8f;
 }
+
+
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+
 
 /* navbar */
 
@@ -67,14 +69,14 @@ p{
   /* transform: rotate(25deg); */
   /* width: 380px;
   /* margin: 20px 0 0 -10px; */
-    height: 100%;
+    width: 55%;
   position: absolute;
   /* left: 10%;
   right: auto; */
-  width: auto;
-  bottom: -1%;
+  height: auto;
+  /* bottom: 200%; */
   right: 1%;
-  top: 10%;
+  top: 25%;
   /* margin-right: -10px; */
 
 
