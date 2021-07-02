@@ -2,20 +2,19 @@ body{
   font-family: "Montserrat";
 }
 
-h1{
-
+h1, h2, h3, h4, h5, h6{
+  font-family: "Montserrat";
 
 }
 
 h2{
-  font-family: "Montserrat";
   font-weight: bold;
   font-size: 3rem;
   line-height: 1.5;
 }
 
 h3{
-    font-family: "Montserrat", "sans-serif";
+
     font-weight: bold;
 }
 
@@ -167,7 +166,7 @@ p{
     position: static;
     width: 120%;
     height: auto;
-    margin-bottom: -55%;
+    margin-bottom: -50%;
   }
 
 }
