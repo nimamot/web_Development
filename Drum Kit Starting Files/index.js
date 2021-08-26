@@ -10,7 +10,10 @@
 for(var i=0; i< document.querySelectorAll(".drum").length; i++){
   document.querySelectorAll(".drum")[i].addEventListener("click", function (){
 
+
+// creating an object
     var buttoninnerHTML = this.innerHTML;
+    // switch statement
     switch (buttoninnerHTML) {
       case "w":
           var tom1 = new Audio("sounds/tom-1.mp3");
