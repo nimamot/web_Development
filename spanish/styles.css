@@ -1,5 +1,10 @@
 .letra{
-
   text-align: center;
   margin: 10%;
+  margin-top: 2%;
+}
+
+.letra_img {
+  width: 200px;
+  height: auto;
 }
