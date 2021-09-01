@@ -214,7 +214,7 @@ p{
   color: #ff4c68;
 }
 
-#footer{
-  padding: 20px;
-  text-align:center;
-}
+31 .footer{
+32     position: absolute;
+33     bottom: 0;
+34 }
