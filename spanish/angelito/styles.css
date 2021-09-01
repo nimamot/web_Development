@@ -13,3 +13,15 @@
 .ans {
   color: green;
 }
+.newWords {
+  padding: 10px;
+}
+
+#footer{
+  padding: 20px;
+  text-align:center;
+}
+
+figcaption {
+  padding: 20px;
+}
