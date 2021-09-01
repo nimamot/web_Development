@@ -8,7 +8,7 @@ var answer4 = document.querySelector(".marchó");
 var answer5 = document.querySelector(".hondo");
 var answer6 = document.querySelector(".avisó");
 var answer7 = document.querySelector(".roto");
-
+var answer8 = document.querySelector(".tirada");
 
 
 var box1 = document.querySelector(".box1");
@@ -18,6 +18,7 @@ var box4 = document.querySelector(".box4");
 var box5 = document.querySelector(".box5");
 var box6 = document.querySelector(".box6");
 var box7 = document.querySelector(".box7");
+var box8 = document.querySelector(".box8");
 
 
 button.onclick = function(){
@@ -28,6 +29,8 @@ button.onclick = function(){
   answer5.innerHTML = "(hondo)";
   answer6.innerHTML = "(avisó)";
   answer7.innerHTML = "(roto)";
+  answer8.innerHTML = "(tirada)";
+
   // if Statement1
   if (box1.value == "cuidar"){
     box1.style.color = "green";
@@ -76,12 +79,20 @@ button.onclick = function(){
     box6.style.color = "red";
   }
 
-  // if Statement6
+  // if Statement7
   if (box7.value == "roto"){
     box7.style.color = "green";
   }
   else{
     box7.style.color = "red";
+  }
+
+  // if Statement8
+  if (box8.value == "tirada"){
+    box8.style.color = "green";
+  }
+  else{
+    box8.style.color = "red";
   }
 
 
