@@ -64,14 +64,19 @@ p{
 
 .nav-item{
   padding: 0 18px;
+
 }
 
 .nav-link{
   font-size: 1.5rem;
-  font-family: "Montserrat";
-  color: white;
+  font-family: "Times New Roman", Times, serif;
+
+
 }
 
+.navbar-nav {
+
+}
 /* buttons */
 .nav-button{
   margin: 5% 3% 5% 0;
