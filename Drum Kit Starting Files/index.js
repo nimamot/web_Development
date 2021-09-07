@@ -58,6 +58,6 @@ for(var i=0; i< document.querySelectorAll(".drum").length; i++){
 }
 
 
-addEventListener("keydown", function () {
+document.addEventListener("keydown", function () {
   alert("Key was ppresses");
 });
