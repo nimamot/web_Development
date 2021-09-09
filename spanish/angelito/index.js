@@ -88,7 +88,7 @@ button.onclick = function(){
   }
 
   // if Statement8
-  if (box8.value == "tirada"){
+  if (box8.value == "roto"){
     box8.style.color = "green";
   }
   else{
